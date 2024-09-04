@@ -1,0 +1,43 @@
+
+
+# Archivos de compilación
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios generados por el sistema de construcción
+target/
+build/
+
+# Archivos del entorno de desarrollo
+*.log
+*.tmp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+
+# Archivos de configuración de Eclipse
+.settings/
+.project
+.classpath
+
+# Archivos de configuración de NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+private/
+
+# Archivos de Maven
+.mvn/
