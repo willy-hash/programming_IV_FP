@@ -1,6 +1,6 @@
-package paquete_1;
+package FirstSection;
 
-public class Seccion_1 {
+public class Section_1 {
 
     //Methods(exercises)
 

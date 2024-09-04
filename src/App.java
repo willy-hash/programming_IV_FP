@@ -1,12 +1,13 @@
-import paquete_1.*;
-import paquete_2.*;
-import paquete_3.*;
+import FirstSection.*;
+import SecondSection.*;
+import ThirdSection.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
         
 
-        Seccion_1 seccion1 = new Seccion_1();
-        seccion1.oneDocOne(5);
+        Section_1 section1 = new Section_1();
+
+        section1.oneDocOne(5);
     }
 }
